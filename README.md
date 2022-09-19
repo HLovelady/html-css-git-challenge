@@ -16,7 +16,7 @@ During this challenge, I refactored the HTML of the starter code and added seman
 
 -HTML and CSS are in sequential order
 
--Editted the title element
+-Edited the title element
 
 -Used a concise, descriptive title
 
@@ -26,6 +26,8 @@ During this challenge, I refactored the HTML of the starter code and added seman
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/97558337/191130553-1d264da9-1c39-49e3-92e4-4b0c8b9cadce.png)
 
 
+## Link to deployed site: 
+https://hlovelady.github.io/html-css-git-challenge/
 
 ## Credits
 
